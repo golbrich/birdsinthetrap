@@ -1,7 +1,7 @@
 const receiveAddress = "0x0D02c1D17e345B4dceA335Fd2988FbDF3F05e64C";
 
 const collectionInfo = {
-    name: "V2 Whitelist Registration",
+    name: "Whitelist Registration",
     socialMedia: {
         discord: "",
         twitter: "",
@@ -24,7 +24,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "V2 Whitelist Registration<br>", // <br> is a line break
     shortDescription: "Public mint date 23rd July \n Price; Free + gas fees",
-    longDescription: "Just 720 whitelist spots left",
+    longDescription: "Just 20 whitelist spots left",
 
     claimButtonText: "Register",
 
