@@ -22,7 +22,7 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "V2 Whitelist Registration<br>", // <br> is a line break
+    title: "Whitelist Registration<br>", // <br> is a line break
     shortDescription: "Public mint date 23rd July \n Price; Free + gas fees",
     longDescription: "Just 20 whitelist spots left",
 
